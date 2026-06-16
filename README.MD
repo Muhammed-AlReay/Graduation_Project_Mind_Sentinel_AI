@@ -1,7 +1,7 @@
 # 🧠 MIND SENTINEL AI
 <div align="center">
 
-<img src="docs/images/cover.png" width="100%"/>
+<img src="images/cover.jpeg" width="100%"/>
 
 # 🧠 MIND SENTINEL AI
 
