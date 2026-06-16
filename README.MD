@@ -288,7 +288,7 @@ https://github.com/MohamedAlaaAhmed
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Implementing the project evaluation
 
 ---
 
@@ -301,20 +301,20 @@ https://github.com/Yomna67
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Crisis detection and classification
 
 ---
 
 ### 👨‍💻 AI Engineer
 
-**[AI Member Name]**
+**Menna**
 
 GitHub:
 [GitHub Profile]
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Memory preparation
 
 ---
 
@@ -322,7 +322,7 @@ Responsibilities:
 
 ### 👨‍💻 Security Lead
 
-**[Security Engineer Name]**
+**Ahmed Abdelmohaymen**
 
 GitHub:
 https://github.com/hgr00x
@@ -339,29 +339,29 @@ Responsibilities:
 
 ## 🌐 Frontend & Backend Team
 
-### 👨‍💻 Full Stack Developer
+### 👨‍💻 Full Stack Developer lead 
 
-**[Member Name]**
+**Abdelrahman wanos25**
 
 GitHub:
 https://github.com/wanos25
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Frontend & Backend Team
 
 ---
 
 ### 👨‍💻 Full Stack Developer
 
-**[Member Name]**
+**Mohammed Fathy**
 
 GitHub:
 https://github.com/m7medfathy
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Frontend & Backend Team
 
 ---
 
@@ -374,7 +374,7 @@ GitHub:
 
 Responsibilities:
 
-- [Add Responsibilities Here]
+- Frontend & Backend Team
 
 ---
 
