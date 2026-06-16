@@ -255,6 +255,42 @@ The project supports:
 
 ---
 
+# 📸 Platform Screenshots
+
+### 🏠 Landing Page
+images/cover.jpeg
+<img src="images/Home Page.png" width="100%">
+
+---
+
+### 💬 AI Mental Health Assistant
+
+<img src="images/chat.png" width="100%">
+
+---
+
+### 🧠 Psychological Analysis
+
+<img src="images/doctor_dashbord.png" width="100%">
+
+---
+
+### 🚨 Crisis Detection Module
+
+<img src="images/Crisis Detection Module.png" width="100%">
+
+---
+
+### 📚 Avatar Logging 
+
+<img src="images/Avatar(logging).png" width="100%">
+
+---
+
+### 👤 Patiant Dashboard
+
+<img src="images/patiant.png" width="100%">
+
 # 👥 Team Structure
 
 ## AI Team
