@@ -1,0 +1,55 @@
+{
+  "languages": {
+    "en": [
+      {"text": "I want to kill myself", "expected": "SUICIDE_RISK"},
+      {"text": "I want to die", "expected": "SUICIDE_RISK"},
+      {"text": "going to kill myself", "expected": "SUICIDE_RISK"},
+      {"text": "I want to hurt myself", "expected": "SELF_HARM"},
+      {"text": "I want to cut myself", "expected": "SELF_HARM"},
+      {"text": "I feel hopeless and trapped", "expected": "CRISIS_DISTRESS"},
+      {"text": "I had a panic attack", "expected": "CRISIS_DISTRESS"},
+      {"text": "What are anxiety symptoms?", "expected": "SAFE"},
+      {"text": "Tell me about CBT therapy", "expected": "SAFE"},
+      {"text": "How does mindfulness help?", "expected": "SAFE"}
+    ],
+    "ar": [
+      {"text": "\u0627\u0646\u0627 \u0639\u0627\u064a\u0632 \u0627\u0642\u062a\u0644 \u0646\u0641\u0633\u064a", "expected": "SUICIDE_RISK"},
+      {"text": "\u0623\u0631\u064a\u062f \u0623\u0646 \u0623\u0645\u0648\u062a", "expected": "SUICIDE_RISK"},
+      {"text": "\u0639\u0627\u064a\u0632 \u0627\u0642\u062a\u0644 \u0646\u0641\u0633\u064a", "expected": "SUICIDE_RISK"},
+      {"text": "\u0623\u0631\u064a\u062f \u0625\u064a\u0630\u0627\u0621 \u0646\u0641\u0633\u064a", "expected": "SELF_HARM"},
+      {"text": "\u0623\u0624\u0630\u064a \u0646\u0641\u0633\u064a", "expected": "SELF_HARM"},
+      {"text": "\u0623\u0634\u0639\u0631 \u0628\u0627\u0644\u064a\u0623\u0633", "expected": "CRISIS_DISTRESS"},
+      {"text": "\u0644\u0627 \u0623\u0645\u0644", "expected": "CRISIS_DISTRESS"},
+      {"text": "\u0645\u0627 \u0647\u064a \u0623\u0639\u0631\u0627\u0636 \u0627\u0644\u0642\u0644\u0642\u061f", "expected": "SAFE"},
+      {"text": "\u0623\u062e\u0628\u0631\u0646\u064a \u0639\u0646 \u0627\u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0633\u0644\u0648\u0643\u064a", "expected": "SAFE"}
+    ],
+    "fr": [
+      {"text": "Je veux me suicider", "expected": "SUICIDE_RISK"},
+      {"text": "Je veux mourir", "expected": "SUICIDE_RISK"},
+      {"text": "Je veux me faire du mal", "expected": "SELF_HARM"},
+      {"text": "Je me sens d\u00e9sesp\u00e9r\u00e9", "expected": "CRISIS_DISTRESS"},
+      {"text": "Quels sont les sympt\u00f4mes de l'anxi\u00e9t\u00e9?", "expected": "SAFE"}
+    ],
+    "es": [
+      {"text": "Quiero suicidarme", "expected": "SUICIDE_RISK"},
+      {"text": "Quiero morir", "expected": "SUICIDE_RISK"},
+      {"text": "Quiero hacerme da\u00f1o", "expected": "SELF_HARM"},
+      {"text": "Me siento desesperado", "expected": "CRISIS_DISTRESS"},
+      {"text": "\u00bfCu\u00e1les son los s\u00edntomas de la ansiedad?", "expected": "SAFE"}
+    ],
+    "it": [
+      {"text": "Voglio uccidermi", "expected": "SUICIDE_RISK"},
+      {"text": "Voglio morire", "expected": "SUICIDE_RISK"},
+      {"text": "Voglio farmi del male", "expected": "SELF_HARM"},
+      {"text": "Mi sento disperato", "expected": "CRISIS_DISTRESS"},
+      {"text": "Quali sono i sintomi dell'ansia?", "expected": "SAFE"}
+    ]
+  },
+  "parity_cases": [
+    {"text": "I want to kill myself", "expected": "SUICIDE_RISK"},
+    {"text": "\u0627\u0646\u0627 \u0639\u0627\u064a\u0632 \u0627\u0642\u062a\u0644 \u0646\u0641\u0633\u064a", "expected": "SUICIDE_RISK"},
+    {"text": "Je veux me suicider", "expected": "SUICIDE_RISK"},
+    {"text": "Quiero suicidarme", "expected": "SUICIDE_RISK"},
+    {"text": "Voglio uccidermi", "expected": "SUICIDE_RISK"}
+  ]
+}
